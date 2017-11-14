@@ -1,5 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://foreveraprogrammer.github.io/blog/"
 languageCode = "en-us"
 title = "Blog"
 theme = "vienna"
-image = ""
